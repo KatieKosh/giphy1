@@ -1,0 +1,32 @@
+body {
+
+background-image:  url('water.jpeg');
+text-align: center;
+}
+
+
+h2 {
+
+color:  #006400;
+font-size: 65px;
+
+
+}
+
+
+button {
+
+font-size: 25px;
+background-color: #006400;
+color: white;
+padding: 20px;
+
+
+}
+
+
+#earth-form {
+
+margin-top: 175px;
+
+}
