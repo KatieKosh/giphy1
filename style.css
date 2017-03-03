@@ -2,6 +2,7 @@ body {
 
 background-image:  url('water.jpeg');
 text-align: center;
+font-style: italic;
 }
 
 
@@ -15,7 +16,7 @@ font-size: 65px;
 
 
 button {
-
+font-style: italic;
 font-size: 25px;
 background-color: #006400;
 color: white;
