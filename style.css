@@ -1,8 +1,11 @@
 body {
 
 background-image:  url('water.jpeg');
+background-size: cover;
 text-align: center;
-font-style: italic;
+font-family: 'Gloria Hallelujah', cursive;
+
+
 }
 
 
@@ -16,7 +19,7 @@ font-size: 65px;
 
 
 button {
-font-style: italic;
+font-family: 'Gloria Hallelujah', cursive;
 font-size: 25px;
 background-color: #006400;
 color: white;
